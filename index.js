@@ -3,7 +3,7 @@
 
 
 // DECLARACIÓN DEL MENSAJE
-var mensajeDeInicio = "Yeshua David Reyes Guzman Presenta La cultura Japonesa";
+var mensajeDeInicio = "Yeshua David Reyes Guzman Presenta La cultura Japonesa"
 
 
 
