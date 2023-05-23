@@ -3,11 +3,11 @@
     --colorDeTextoHeader: white;
     --colorDeFondoHeader: red;
 
-    --colorDeTextMain: white;
-    --colorDeFondoMain: yellow;
+    --colorDeTextMain: rgb(230, 157, 0);
+    --colorDeFondoMain: rgb(255, 255, 255);
 
-    --colorDeTextFooter: white;
-    --colorDeFondoFooter: blue;
+    --colorDeTextFooter: rgb(90, 92, 214);
+    --colorDeFondoFooter: rgb(255, 255, 255);
 }
 
 
